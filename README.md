@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as an AI Engineer at [8vance](https://www.8vance.com/)
 - 🌱 I’m currently learning AWS, Web3
 - 💬 Ask me about NLP, Process Mining
-- 📫 How to reach me: mailto:rehanfazal@live.com
+- 📫 How to reach me: rehanfazal@live.com
 - 😄 Pronouns: he/him
 
 <!--
