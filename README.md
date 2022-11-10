@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as an AI Engineer at [8vance](https://www.8vance.com/)
-- 🌱 I’m currently learning AWS, Web3
-- 💬 Ask me about NLP, Process Mining
+- 🌱 I’m currently learning AWS, MLOps
+- 💬 Ask me about NLP, Machine Learning, Deep Learning
 - 📫 How to reach me: rehanfazal@live.com
 - 😄 Pronouns: he/him
 
