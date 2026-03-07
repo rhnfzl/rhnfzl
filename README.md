@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=header)
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Production+NLP+Systems;Training+Domain-Specific+Language+Models;Semantic+Search+%26+RAG+Architect;Designing+Agentic+AI+Systems;Multilingual+ML+Engineer+(EN+%7C+NL+%7C+DE);From+Embeddings+to+Deployment" alt="Typing SVG" /></a>
 </p>
@@ -199,6 +197,3 @@ BLOG-POST-LIST:END -->
 </p>
 
 ---
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer)
