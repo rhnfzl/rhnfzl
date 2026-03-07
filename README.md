@@ -36,7 +36,7 @@ When not training models: runner, boulderer, speed listener, and occasional trav
 Agentic AI architectures with tool orchestration and MCP servers auto-generated from API specs. Multi-LLM judge-based evaluation with cross-review. RAG pipelines with ChromaDB, LanceDB, Qdrant, and FAISS. Prompt optimization with structured output.
 
 **Architecture & MLOps**<br/>
-Designed AI infrastructure layer over existing SaaS platform: event-driven multi-agent orchestration, Pydantic AI agents, MCP tooling, SSE streaming, Langfuse observability, EKS deployment. Domain-agnostic shared infrastructure across production classifiers. SageMaker endpoints, Redis caching, MLflow, CI/CD pipelines.
+Designed AI infrastructure layer over existing SaaS platform: event-driven multi-agent orchestration, MCP tooling, SSE streaming, observability, and EKS deployment. Domain-agnostic shared infrastructure across production classifiers. SageMaker endpoints, Redis caching, MLflow, CI/CD pipelines.
 
 **Semantic Classification Systems**<br/>
 Production multilingual classifiers using transformer embeddings. Low-latency inference at scale, deployed as FastAPI services on AWS.
@@ -89,6 +89,7 @@ Large-scale multilingual data processing with language detection. FAISS index be
   <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
   <img src="https://img.shields.io/badge/LanceDB-4B0082?style=for-the-badge&logoColor=white" alt="LanceDB"/>
   <img src="https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic AI"/>
 </p>
 
 <p align="center">
@@ -102,6 +103,7 @@ Large-scale multilingual data processing with language detection. FAISS index be
   <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonsagemaker&logoColor=white" alt="SageMaker"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
   <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
+  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white" alt="Langfuse"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
   <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff"/>
 </p>
