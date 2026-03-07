@@ -153,11 +153,11 @@ Exploring advanced RAG architectures, LLM training and fine-tuning, agentic AI, 
   <img src="https://img.shields.io/github/stars/rhnfzl/reddit-stash?style=flat-square&color=30363d" alt="Stars"/>
 </p>
 
-[**SqueakyCleanText**](https://github.com/rhnfzl/SqueakyCleanText) - Configurable multilingual text cleaning and preprocessing pipeline for NLP. Handles 40+ languages with smart whitespace normalization, encoding fixes, and emoji handling.
+[**SqueakyCleanText**](https://github.com/rhnfzl/SqueakyCleanText) - Text cleaning and NER pipeline for NLP. Multi-backend entity recognition (ONNX, PyTorch, GLiNER), PII anonymization, and multilingual support.
 
-[**reddit-stash-insights**](https://github.com/rhnfzl/reddit-stash-insights) - AI-powered analysis and insights from saved Reddit content using LLMs for pattern discovery and topic clustering.
+[**reddit-stash-insights**](https://github.com/rhnfzl/reddit-stash-insights) - Semantic search and RAG-powered chat over your Reddit archive. Hybrid retrieval (BGE-M3 embeddings + BM25) with multi-LLM support.
 
-[**reddit-stash**](https://github.com/rhnfzl/reddit-stash) - Export and archive Reddit saved posts, comments, and upvoted content locally.
+[**reddit-stash**](https://github.com/rhnfzl/reddit-stash) - Automated Reddit backup via GitHub Actions. Archives saved posts, comments, and upvotes to local storage, Dropbox, or S3.
 
 ---
 
