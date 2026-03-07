@@ -55,10 +55,13 @@ Document parsing with LLM post-processing, NER-based extraction (GliNER, ONNX en
   <strong>Core ML & AI</strong><br/><br/>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="Core ML" /></a>
   <br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge&logoColor=white" alt="DeepSpeed"/>
 </p>
 
 <p align="center">
@@ -82,6 +85,7 @@ Document parsing with LLM post-processing, NER-based extraction (GliNER, ONNX en
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonsagemaker&logoColor=white" alt="SageMaker"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
   <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff"/>
 </p>
