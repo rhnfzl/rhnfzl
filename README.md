@@ -22,26 +22,26 @@ When not training models: runner, boulderer, speed listener, and occasional trav
 <tr>
 <td width="50%" valign="top">
 
-**Semantic Classification Systems**<br/>
-Production multilingual classifiers using transformer embeddings. Low-latency inference at scale, deployed as FastAPI services on AWS.
-
-**Custom Language Models**<br/>
-Domain-specific BERT, RoBERTa, and ModernBERT variants trained from scratch with custom tokenizers. Contrastive ranking models for relevance filtering. Deployed on SageMaker GPU endpoints.
-
 **RAG, Agents & LLM Systems**<br/>
 Agentic AI architectures with tool orchestration and MCP servers auto-generated from API specs. Multi-LLM judge-based evaluation with cross-review. RAG pipelines with ChromaDB, LanceDB, Qdrant, and FAISS. Prompt optimization with structured output.
 
+**Architecture & MLOps**<br/>
+Designed production AI chat backend (Django + MCP + RAG on EKS). End-to-end ML infrastructure: SageMaker endpoints, EC2 deployments, Redis caching, S3 model sync, Docker, MLflow, CI/CD pipelines.
+
+**Semantic Classification Systems**<br/>
+Production multilingual classifiers using transformer embeddings. Low-latency inference at scale, deployed as FastAPI services on AWS.
+
 </td>
 <td width="50%" valign="top">
+
+**Custom Language Models**<br/>
+Domain-specific BERT, RoBERTa, and ModernBERT variants trained from scratch with custom tokenizers. Contrastive ranking models for relevance filtering. Deployed on SageMaker GPU endpoints.
 
 **Entity Similarity & Embeddings**<br/>
 Multi-algorithm score fusion, embedding aggregation via attention and Set Transformer, empirically calibrated thresholds, LLM-based quality evaluation.
 
 **Information Extraction & NLP Pipelines**<br/>
 Document parsing with LLM post-processing, NER-based extraction (GliNER, ONNX ensembles), multilingual taxonomy enrichment, clustering and outlier detection.
-
-**Architecture & MLOps**<br/>
-Designed production AI chat backend (Django + MCP + RAG on EKS). End-to-end ML infrastructure: SageMaker endpoints, EC2 deployments, Redis caching, S3 model sync, Docker, MLflow, CI/CD pipelines.
 
 </td>
 </tr>
