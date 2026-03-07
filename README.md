@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Rehan%20Fazal&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=ML/AI%20Engineer%20%C2%B7%20NLP%20%C2%B7%20ML%20Systems&descSize=18&descColor=8b949e&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=header)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Production+NLP+Systems;Training+Domain-Specific+Language+Models;Semantic+Search+%26+RAG+Architect;Designing+Agentic+AI+Systems;Multilingual+ML+Engineer+(EN+%7C+NL+%7C+DE);From+Embeddings+to+Deployment" alt="Typing SVG" /></a>
@@ -8,7 +8,7 @@
 
 ### About Me
 
-ML/AI Engineer designing and shipping production ML/NLP systems end-to-end, from training custom language models and embedding pipelines to deploying real-time classification APIs at scale. I architect across the full stack: transformer fine-tuning, semantic search, RAG systems, agentic AI, LLM orchestration, and ML infrastructure. Currently leading an R&D team building multilingual NLP systems serving English, Dutch, and German languages.
+Hey, I'm Rehan. ML/AI Engineer designing and shipping production ML/NLP systems end-to-end, from training custom language models and embedding pipelines to deploying real-time classification APIs at scale. I architect across the full stack: transformer fine-tuning, semantic search, RAG systems, agentic AI, LLM orchestration, and ML infrastructure. Currently leading an R&D team building multilingual NLP systems serving English, Dutch, and German languages.
 
 MSc in Computer Science & Data Science · Eindhoven University of Technology (TU/e)
 
