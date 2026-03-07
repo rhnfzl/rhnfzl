@@ -114,17 +114,16 @@ Designed production AI chat backend (Django + MCP + RAG on EKS). End-to-end ML i
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://gh-stats-plum.vercel.app/api?username=rhnfzl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhnfzl&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" alt="GitHub Streak"/>
+  <img src="https://gh-stats-plum.vercel.app/api?username=rhnfzl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="60%" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://gh-stats-plum.vercel.app/api/top-langs/?username=rhnfzl&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhnfzl&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhnfzl&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="98%" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhnfzl&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="90%" alt="Activity Graph"/>
   </a>
 </p>
 
