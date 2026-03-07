@@ -91,6 +91,11 @@ Large-scale multilingual data processing with language detection. FAISS index be
   <img src="https://img.shields.io/badge/LanceDB-4B0082?style=for-the-badge&logoColor=white" alt="LanceDB"/>
   <img src="https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
   <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic AI"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-6F42C1?style=for-the-badge&logoColor=white" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/Instructor-191919?style=for-the-badge&logoColor=white" alt="Instructor"/>
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logoColor=white" alt="NLTK"/>
 </p>
 
 <p align="center">
@@ -100,6 +105,7 @@ Large-scale multilingual data processing with language detection. FAISS index be
   <img src="https://img.shields.io/badge/DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2"/>
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
 </p>
 
 <p align="center">
@@ -109,6 +115,7 @@ Large-scale multilingual data processing with language detection. FAISS index be
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
   <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
   <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white" alt="Langfuse"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
   <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff"/>
 </p>
