@@ -6,7 +6,7 @@
 
 ### About Me
 
-Hey, I'm Rehan. ML/AI Engineer designing and shipping production machine learning and Natural Language Processing (NLP) systems end-to-end, from training custom language models and embedding pipelines to deploying real-time classification APIs at scale. I architect across the full stack: transformer fine-tuning, semantic search, RAG systems, agentic AI, LLM orchestration, and ML infrastructure. Currently leading an R&D team building multilingual NLP systems serving English, Dutch, and German languages.
+Hey, I'm Rehan. ML/AI Engineer designing and shipping production machine learning and Natural Language Processing (NLP) systems end-to-end, from training custom language models and embedding pipelines to deploying real-time classification APIs at scale. Architecting across the full stack: transformer fine-tuning, semantic search, RAG systems, agentic AI, LLM orchestration, and ML infrastructure. Currently leading an R&D team building multilingual NLP systems serving English, Dutch, and German languages.
 
 MSc in Computer Science & Data Science · Eindhoven University of Technology (TU/e)
 
@@ -16,11 +16,11 @@ When not training models: runner, boulderer, speed listener, and occasional trav
 
 ### How I Work
 
-**Automate relentlessly** - If it's done twice, the third time it's a pipeline. From auto-generating API tools from a spec to fully autonomous transcript processing.
+**Automate relentlessly** — Done twice, the third time it's a pipeline. Auto-generating API tools from specs, running transcript processors end-to-end without intervention.
 
-**Empirical over intuitive** - Thresholds calibrated, not guessed. Multi-algorithm fusion, consensus-based detection, A/B tested before production.
+**Empirical over intuitive** — Calibrating thresholds, not guessing them. Fusing multiple algorithms, letting consensus decide, testing everything before it ships.
 
-**Research to production** - Models trained from scratch ship to GPU endpoints. Every system is designed to run unattended at scale.
+**Research to production** — Training models from scratch, shipping them to GPU endpoints. If it can't run unattended at scale, it's not done.
 
 ---
 
