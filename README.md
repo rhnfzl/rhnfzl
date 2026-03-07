@@ -77,6 +77,7 @@ Large-scale multilingual data processing with language detection. FAISS index be
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=for-the-badge&logoColor=white" alt="Sentence-Transformers"/>
   <img src="https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge&logoColor=white" alt="DeepSpeed"/>
 </p>
 
@@ -94,7 +95,11 @@ Large-scale multilingual data processing with language detection. FAISS index be
 
 <p align="center">
   <strong>Infrastructure & DevOps</strong><br/><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,fastapi,linux,redis,postgres,git,githubactions&theme=dark" alt="Infrastructure" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,fastapi,linux,redis,postgres,mysql,cassandra,git,githubactions&theme=dark" alt="Infrastructure" /></a>
+  <br/>
+  <img src="https://img.shields.io/badge/DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
 <p align="center">
