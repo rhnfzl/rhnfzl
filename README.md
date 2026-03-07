@@ -41,7 +41,7 @@ Domain-specific BERT, RoBERTa, and ModernBERT variants trained from scratch with
 Multi-algorithm score fusion, embedding aggregation via attention and Set Transformer, empirically calibrated thresholds, LLM-based quality evaluation.
 
 **Information Extraction & NLP Pipelines**<br/>
-Document parsing with LLM post-processing, NER-based extraction (GliNER, ONNX ensembles), multilingual taxonomy enrichment, clustering and outlier detection.
+Document parsing with LLM post-processing, NER-based extraction (GliNER, ONNX ensembles), PII anonymization, multilingual taxonomy enrichment, clustering and outlier detection.
 
 </td>
 </tr>
