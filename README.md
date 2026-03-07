@@ -16,6 +16,16 @@ When not training models: runner, boulderer, speed listener, and occasional trav
 
 ---
 
+### How I Work
+
+**Automate relentlessly** - If it's done twice, the third time it's a pipeline. From auto-generating API tools from a spec to fully autonomous transcript processing.
+
+**Empirical over intuitive** - Thresholds calibrated, not guessed. Multi-algorithm fusion, consensus-based detection, A/B tested before production.
+
+**Research to production** - Models trained from scratch ship to GPU endpoints. Every system is designed to run unattended at scale.
+
+---
+
 ### What I Build
 
 <table>
@@ -26,10 +36,13 @@ When not training models: runner, boulderer, speed listener, and occasional trav
 Agentic AI architectures with tool orchestration and MCP servers auto-generated from API specs. Multi-LLM judge-based evaluation with cross-review. RAG pipelines with ChromaDB, LanceDB, Qdrant, and FAISS. Prompt optimization with structured output.
 
 **Architecture & MLOps**<br/>
-Designed production AI chat backend (Django + MCP + RAG on EKS). End-to-end ML infrastructure: SageMaker endpoints, EC2 deployments, Redis caching, S3 model sync, Docker, MLflow, CI/CD pipelines.
+Domain-agnostic shared infrastructure across production classifiers. AI chat backend (Django + MCP + RAG on EKS). SageMaker endpoints, EC2 deployments, Redis caching, S3 model sync, Docker, MLflow, CI/CD pipelines.
 
 **Semantic Classification Systems**<br/>
 Production multilingual classifiers using transformer embeddings. Low-latency inference at scale, deployed as FastAPI services on AWS.
+
+**Automation & Developer Tooling**<br/>
+Auto-generated MCP tooling from API specs, autonomous Jira-to-Slack digests, meeting transcript processing pipelines, CI/CD workflows with quality gates.
 
 </td>
 <td width="50%" valign="top">
@@ -42,6 +55,9 @@ Multi-algorithm score fusion, embedding aggregation via attention and Set Transf
 
 **Information Extraction & NLP Pipelines**<br/>
 Document parsing with LLM post-processing, NER-based extraction (GliNER, ONNX ensembles), PII anonymization, multilingual taxonomy enrichment, clustering and outlier detection.
+
+**Data & Performance Engineering**<br/>
+Large-scale multilingual data processing with language detection. FAISS index benchmarking, async caching layers, stress testing, and latency optimization for production classifiers.
 
 </td>
 </tr>
