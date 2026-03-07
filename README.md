@@ -110,7 +110,9 @@ Document parsing with LLM post-processing, NER-based extraction (GliNER, ONNX en
   <a href="https://github.com/rhnfzl/SqueakyCleanText"><img src="https://img.shields.io/badge/SqueakyCleanText-Text%20Preprocessing%20%26%20PII%20Anonymization-58a6ff?style=flat-square&logo=github" alt="SqueakyCleanText"/></a>
   <img src="https://img.shields.io/github/stars/rhnfzl/SqueakyCleanText?style=flat-square&color=30363d" alt="Stars"/>
   <a href="https://github.com/rhnfzl/reddit-stash-insights"><img src="https://img.shields.io/badge/reddit--stash--insights-Semantic%20Search%20%26%20RAG%20Chat-58a6ff?style=flat-square&logo=github" alt="reddit-stash-insights"/></a>
+  <img src="https://img.shields.io/github/stars/rhnfzl/reddit-stash-insights?style=flat-square&color=30363d" alt="Stars"/>
   <a href="https://github.com/rhnfzl/reddit-stash"><img src="https://img.shields.io/badge/reddit--stash-Automated%20Reddit%20Backup-58a6ff?style=flat-square&logo=github" alt="reddit-stash"/></a>
+  <img src="https://img.shields.io/github/stars/rhnfzl/reddit-stash?style=flat-square&color=30363d" alt="Stars"/>
 </p>
 
 ---
