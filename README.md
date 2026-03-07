@@ -36,7 +36,7 @@ When not training models: runner, boulderer, speed listener, and occasional trav
 Agentic AI architectures with tool orchestration and MCP servers auto-generated from API specs. Multi-LLM judge-based evaluation with cross-review. RAG pipelines with ChromaDB, LanceDB, Qdrant, and FAISS. Prompt optimization with structured output.
 
 **Architecture & MLOps**<br/>
-Domain-agnostic shared infrastructure across production classifiers. AI chat backend (Django + MCP + RAG on EKS). SageMaker endpoints, EC2 deployments, Redis caching, S3 model sync, Docker, MLflow, CI/CD pipelines.
+Designed multi-agent platform architecture: event-driven orchestration, Pydantic AI agents, MCP tooling, SSE streaming, Langfuse observability, and EKS deployment. Domain-agnostic shared infrastructure across production classifiers. SageMaker endpoints, Redis caching, S3 model sync, MLflow, CI/CD pipelines.
 
 **Semantic Classification Systems**<br/>
 Production multilingual classifiers using transformer embeddings. Low-latency inference at scale, deployed as FastAPI services on AWS.
