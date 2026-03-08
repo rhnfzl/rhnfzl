@@ -16,11 +16,11 @@ When not training models: runner, boulderer, speed listener, and occasional trav
 
 ### How I Work
 
-**Automate relentlessly**: Done twice, the third time it's a pipeline. Auto-generating API tools from specs, running transcript processors end-to-end without intervention.
+If something has to be done twice, the third time it's automated into a pipeline. I'd rather spend a day automating than a week doing the same thing manually.
 
-**Empirical over intuitive**: Calibrating thresholds, not guessing them. Fusing multiple algorithms, letting consensus decide, testing everything before it ships.
+Don't believe in guessing thresholds. Measure them from both quantitative and qualitative perspectives. When multiple approaches each get something right, combine them and let the data decide. Everything gets tested before it ships.
 
-**Research to production**: Training models from scratch, shipping them to GPU endpoints. If it can't run unattended at scale, it's not done.
+Build models from scratch and put them in production. If it can't run unattended at scale, it's not done.
 
 ---
 
