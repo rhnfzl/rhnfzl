@@ -16,11 +16,11 @@ When not training models: runner, boulderer, speed listener, and occasional trav
 
 ### How I Work
 
-If something has to be done twice, the third time it's automated into a pipeline. I'd rather spend a day automating than a week doing the same thing manually.
+- If something has to be done twice, the third time it's automated into a pipeline. I'd rather spend a day automating than a week doing the same thing manually.
 
-Don't believe in guessing thresholds. Measure them from both quantitative and qualitative perspectives. When multiple approaches each get something right, combine them and let the data decide. Everything gets tested before it ships.
+- Don't believe in guessing thresholds. Measure them from both quantitative and qualitative perspectives. When multiple approaches each get something right, combine them and let the data decide. Everything gets tested before it ships.
 
-Build models from scratch and put them in production. If it can't run unattended at scale, it's not done.
+- Build models from scratch and put them in production. If it can't run unattended at scale, it's not done.
 
 ---
 
