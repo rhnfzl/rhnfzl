@@ -1,20 +1,18 @@
-### Hey, I'm Rehan
+I build machine learning and AI systems, and the best part is getting them out of the notebook and into real use. Most of the work involves messy, multilingual text: language models, embeddings, retrieval, and lately the agents and tooling around them.
 
-I build machine learning systems, and the part I enjoy most is getting them out of the notebook and doing real work. Most of it has been messy, multilingual text: language models, embeddings, retrieval, and lately the agents and tooling around them.
+Based in the Netherlands, and always up for a conversation about NLP, retrieval, LLM systems, agents, evaluation and inference. Say hi at [hey@rhnfzl.com](mailto:hey@rhnfzl.com).
 
-I'm based in the Netherlands and open to research engineering roles in NLP, retrieval, LLM systems, agents, evaluation and inference. Say hi at [hey@rhnfzl.com](mailto:hey@rhnfzl.com).
+Recent work includes an AI assistant with a public MCP server, an embedding model, Dutch BERT and RoBERTa models adapted to a specific domain, an LLM document parser that replaced the commercial ones we tested, and a re-ranking step that made a multilingual classifier a lot more accurate.
 
-I'm happiest when a problem sends me down a rabbit hole. Lately I've been thinking about how a chat assistant can keep track of what's actually true in a conversation, and I wrote about it. For the fun of it, I'm also writing an LLM from scratch and picking up some Rust.
+I use coding agents every day: Claude Code, Codex, Cursor and Pi, and review what they write. A small BERT-style model often does the job, so an LLM is not the default. Anything that has to be right, like permissions and business rules, stays in code. Before comparing models, the bar for good enough gets set first, then tested against what runs today.
 
-I'm very keen on automation. If I've done something twice, the third time it gets a script, and that habit doesn't stop at work. Life's little hassles get automated too, my home included.
+Some problems stay in my head long after the workday. The latest was how a chat assistant can keep track of what is actually true in a conversation, which turned into a blog post.
 
-Outside of that: chai, podcasts at a speed that worries people, and the runs, lifts and boulders that keep me sane. I'm also learning Dutch and how to drive, and I take some photos.
+Side projects mostly turn my own data into something useful, like Reddit saves, podcasts and workout logs. Others are tools that help coding agents do better work and show what they cost. Now and then one is just civic curiosity, like a vote guide for the Dutch municipal elections. And lately, for the fun of it, some Rust.
 
-I did my MSc at TU/e.
+Very keen on automation. Anything done twice gets a script the third time, and the habit does not stop at work: life's little hassles at home get automated too.
 
-I've built an embedding model that serves about 12M calls a month, domain-adapted Dutch BERT and RoBERTa models, and an LLM document parser that replaced the commercial ones we tested. The newest is an AI assistant with a public MCP server, now live in production. Adding a re-ranking step to a multilingual classifier took its top-1 from 47% to 65%.
-
-I use coding agents every day and review what they write. I'm happy to use a small BERT-style model when it does the job, and I keep anything that has to be right, like permissions and business rules, in code. Before comparing models, I decide what good enough means and test against what we run today.
+Outside of that: chai, podcasts at a speed that worries people, and the runs, lifts and boulders that keep me sane, plus some photography.
 
 ### Writing
 
