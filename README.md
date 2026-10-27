@@ -16,8 +16,6 @@ I've built an embedding model that serves about 12M calls a month, Dutch BERT an
 
 I use coding agents every day and review what they write. I'm happy to use a small BERT-style model when it does the job, and I keep anything that has to be right, like permissions and business rules, in code. Before comparing models, I decide what good enough means and test against what we run today.
 
-My side projects are pinned below. reddit-stash is the one most people use. The newer ones are tools that help coding agents behave.
-
 ### Writing
 
 <!-- WRITING:START -->
