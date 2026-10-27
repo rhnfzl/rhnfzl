@@ -12,7 +12,7 @@ Outside of that: chai, podcasts at a speed that worries people, and the runs, li
 
 I did my MSc at TU/e.
 
-I've built an embedding model that serves about 12M calls a month, Dutch BERT and RoBERTa models adapted to our text, and an LLM document parser that replaced the commercial ones we tested. The newest is an AI assistant with a public MCP server, now live in production. On one job-title classifier, adding a re-ranking step took top-1 from 47% to 65%.
+I've built an embedding model that serves about 12M calls a month, domain-adapted Dutch BERT and RoBERTa models, and an LLM document parser that replaced the commercial ones we tested. The newest is an AI assistant with a public MCP server, now live in production. Adding a re-ranking step to a multilingual classifier took its top-1 from 47% to 65%.
 
 I use coding agents every day and review what they write. I'm happy to use a small BERT-style model when it does the job, and I keep anything that has to be right, like permissions and business rules, in code. Before comparing models, I decide what good enough means and test against what we run today.
 
