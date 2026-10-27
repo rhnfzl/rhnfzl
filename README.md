@@ -1,34 +1,24 @@
-### Hi, I'm Rehan
+### Hey, I'm Rehan
 
-I'm an AI/ML research engineer in the Netherlands. I build NLP and LLM systems that turn messy, multilingual text into something a production system can match on and trust. I've been building software and data systems for 8+ years, the last 5 in machine learning and LLMs.
+I build machine learning systems, and the part I enjoy most is getting them out of the notebook and doing real work. Most of it has been messy, multilingual text: language models, embeddings, retrieval, and lately the agents and tooling around them.
 
-Lately I've been working on a tool-calling agent with an MCP server, and on the scripted conversations and A/B tests that decide whether a change ships. For fun, I'm writing an LLM from scratch and learning some Rust.
+I'm based in the Netherlands and open to research engineering roles in NLP, retrieval, LLM systems, agents and evaluation. Say hi at [hey@rhnfzl.com](mailto:hey@rhnfzl.com).
 
-I did my MSc in Computer Science and Engineering (Data Science) at TU Eindhoven.
+I'm happiest when a problem sends me down a rabbit hole. Lately I've been thinking about how a chat assistant can keep track of what's actually true in a conversation, and I wrote about it. For the fun of it, I'm also writing an LLM from scratch and picking up some Rust.
 
-### Some things I've built at work
+I'm very keen on automation. If I've done something twice, the third time it gets a script, and that habit doesn't stop at work. Life's little hassles get automated too, my home included.
 
-- An agentic AI assistant with a public MCP server, live in production.
-- A domain-adapted embedding model that serves about 12M calls a month.
-- Dutch BERT and RoBERTa models, adapted to our text with continued pretraining. Six of our classifiers run on top of them.
-- An in-house LLM parser that turns documents into structured data. It beat the commercial parsers we tested, so it replaced them.
-- A classifier for multilingual job titles that first finds candidates, then re-ranks them with a fine-tuned cross-encoder. The re-ranking lifted top-1 from 47% to 65% over retrieval alone.
+Outside of that: chai, podcasts at a speed that worries people, and the runs, lifts and boulders that keep me sane. I'm also learning Dutch and how to drive, and I take some photos.
 
-### How I work
+I did my MSc at TU/e.
 
-- I decide what "good enough" means before I test. Then I compare against what we run today, on data the model hasn't seen.
-- I let the model work out what someone is asking for. Anything that has to be right, like records, permissions and business rules, stays in code.
-- I don't reach for an LLM by default. A small BERT-style model, or one distilled from an LLM's answers, is often fast and cheap enough to do the job.
-- I automate anything I've done twice.
-- I build every day with coding agents like Claude Code, Codex, Cursor and Pi, and I review what they write.
+### At work
 
-### Open source
+I've built an embedding model that serves about 12M calls a month, Dutch BERT and RoBERTa models adapted to our text, and an LLM document parser that replaced the commercial ones we tested. The newest is an AI assistant with a public MCP server, now live in production. On one job-title classifier, adding a re-ranking step took top-1 from 47% to 65%.
 
-- [reddit-stash](https://github.com/rhnfzl/reddit-stash) backs up the Reddit posts and comments you saved, posted or upvoted, as markdown, to your disk, Dropbox or S3. It runs on GitHub Actions or Docker.
-- [SqueakyCleanText](https://github.com/rhnfzl/SqueakyCleanText) is a Python library on PyPI. It cleans text and strips personal data before the text reaches a model.
-- [reddit-stash-insights](https://github.com/rhnfzl/reddit-stash-insights) lets you search and ask questions of that saved Reddit archive. It mixes keyword and embedding search, runs on a local model and has an MCP server for Claude Code.
-- [agent-usage-tracker](https://github.com/rhnfzl/agent-usage-tracker) reads the logs that Claude Code, Codex, Cursor and Pi already write, and turns them into usage records you host yourself. It needs no proxy and no API key, so it works with a plain subscription.
-- [human-html](https://github.com/rhnfzl/human-html) is an agent skill that makes coding agents write plans and reviews as one self-contained HTML page instead of long Markdown, and checks the page before handing it over.
+I use coding agents every day and review what they write. I'm happy to use a small BERT-style model when it does the job, and I keep anything that has to be right, like permissions and business rules, in code. Before comparing models, I decide what good enough means and test against what we run today.
+
+My side projects are pinned below. reddit-stash is the one most people use. The newer ones are tools that help coding agents behave.
 
 ### Writing
 
@@ -36,10 +26,12 @@ I did my MSc in Computer Science and Engineering (Data Science) at TU Eindhoven.
 - [Belief State: a memory of what is true, not just the conversation history](https://rhnfzl.com/writing/belief-state) (Jul 2026)
 <!-- WRITING:END -->
 
-Tools I use most: Python, PyTorch, Hugging Face, sentence-transformers, FAISS, FastAPI, AWS, MLflow, MCP and vLLM.
+### Tools I work with
 
-Outside work: chai, runs, lifts and boulders, and podcasts at a speed that worries people.
+**ML and NLP:** Python, PyTorch, TensorFlow, NumPy, Pandas, scikit-learn, Hugging Face Transformers, sentence-transformers, ONNX, spaCy, NLTK, DeepSpeed
 
-I'm open to research engineering roles in NLP, retrieval and ranking, LLM systems, agents and evaluation. Happy to talk.
+**LLMs and agents:** OpenAI API, Anthropic API, MCP, LangChain, LlamaIndex, CrewAI, Pydantic AI, Instructor, vLLM, Langfuse
 
-[rhnfzl.com](https://rhnfzl.com) · [LinkedIn](https://linkedin.com/in/rhnfzl) · [Hugging Face](https://huggingface.co/rhnfzl) · [X](https://x.com/rhnfzl) · [hey@rhnfzl.com](mailto:hey@rhnfzl.com)
+**Search and data:** FAISS, ChromaDB, LanceDB, Qdrant, PostgreSQL, MySQL, Cassandra, Redis, IBM DB2
+
+**Infra and tooling:** AWS, SageMaker, Docker, Kubernetes, FastAPI, Gunicorn, Celery, Linux, Git, GitHub Actions, MLflow, Weights & Biases, Streamlit, Plotly, Pydantic, Ruff
